@@ -1,2 +1,2 @@
 # Small Game with Javascript
-Using DOM for this game
+Used DOM
